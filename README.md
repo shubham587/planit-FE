@@ -3,9 +3,6 @@
 **Plan It** is a web application designed to simplify group travel planning.  
 Users can create trips, add activities, collaborate with friends, and organize everything in one place.
 
-🔗 **Live Demo:**  
-[https://planit-cwptewnca-shubhams-projects-e73e6896.vercel.app/](https://planit-cwptewnca-shubhams-projects-e73e6896.vercel.app/)
-
 ---
 
 ## ✨ Features
